@@ -1,0 +1,3864 @@
+fileFormatVersion: 2
+guid: 1b48cfd9eea082c4c81c49572a8f4f7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1967391824484389887
+    second: Charlie_0
+  - first:
+      213: -6188866292703425093
+    second: Charlie_1
+  - first:
+      213: -6119707660891581761
+    second: Charlie_2
+  - first:
+      213: -5089880155239174219
+    second: Charlie_3
+  - first:
+      213: 4684716684953024005
+    second: Charlie_4
+  - first:
+      213: 7472797038169898825
+    second: Charlie_5
+  - first:
+      213: -628856338898939492
+    second: Charlie_6
+  - first:
+      213: -5486811666637460440
+    second: Charlie_7
+  - first:
+      213: 8485967928450225324
+    second: Charlie_8
+  - first:
+      213: 8700551234150109923
+    second: Charlie_9
+  - first:
+      213: 3912059575516397475
+    second: Charlie_10
+  - first:
+      213: 3100132961656405839
+    second: Charlie_11
+  - first:
+      213: -7805592262159396784
+    second: Charlie_12
+  - first:
+      213: 5083595565998366594
+    second: Charlie_13
+  - first:
+      213: 8254528772011338480
+    second: Charlie_14
+  - first:
+      213: 538116394323513296
+    second: Charlie_15
+  - first:
+      213: 5650202832331234188
+    second: Charlie_16
+  - first:
+      213: 4706175165174429050
+    second: Charlie_17
+  - first:
+      213: -4769289687185603769
+    second: Charlie_18
+  - first:
+      213: 8925666193236697222
+    second: Charlie_19
+  - first:
+      213: -1193709851351268636
+    second: Charlie_20
+  - first:
+      213: -6102742611292406167
+    second: Charlie_21
+  - first:
+      213: 7455216665525490860
+    second: Charlie_22
+  - first:
+      213: -8890809562205695080
+    second: Charlie_23
+  - first:
+      213: -285207862483069818
+    second: Charlie_24
+  - first:
+      213: -1983289567340179443
+    second: Charlie_25
+  - first:
+      213: 5748459197785827325
+    second: Charlie_26
+  - first:
+      213: 4555280020004283811
+    second: Charlie_27
+  - first:
+      213: -2166075864668797723
+    second: Charlie_28
+  - first:
+      213: -6507829633890226842
+    second: Charlie_29
+  - first:
+      213: -7479592355584758352
+    second: Charlie_30
+  - first:
+      213: 7029312790734528532
+    second: Charlie_31
+  - first:
+      213: 6711242723609076680
+    second: Charlie_32
+  - first:
+      213: -9068903869218211978
+    second: Charlie_33
+  - first:
+      213: -548345420243690680
+    second: Charlie_34
+  - first:
+      213: 5452537086055726941
+    second: Charlie_35
+  - first:
+      213: 7235156776491958769
+    second: Charlie_36
+  - first:
+      213: 4668531652640607612
+    second: Charlie_37
+  - first:
+      213: 3245090862330767218
+    second: Charlie_38
+  - first:
+      213: 7247410709066345111
+    second: Charlie_39
+  - first:
+      213: 5604614603295695033
+    second: Charlie_40
+  - first:
+      213: 2169873424043710150
+    second: Charlie_41
+  - first:
+      213: -5907091687089119550
+    second: Charlie_42
+  - first:
+      213: 6672889253493850096
+    second: Charlie_43
+  - first:
+      213: 1878587755205180269
+    second: Charlie_44
+  - first:
+      213: -7159730708728275222
+    second: Charlie_45
+  - first:
+      213: 6846806983855701873
+    second: Charlie_46
+  - first:
+      213: -8305830096949053926
+    second: Charlie_47
+  - first:
+      213: -2198582821506177278
+    second: Charlie_48
+  - first:
+      213: -2080655187355526998
+    second: Charlie_49
+  - first:
+      213: -2616804559941056666
+    second: Charlie_50
+  - first:
+      213: 5415134833189194454
+    second: Charlie_51
+  - first:
+      213: 5828592763350243616
+    second: Charlie_52
+  - first:
+      213: -6595634195996048280
+    second: Charlie_53
+  - first:
+      213: 8888473229158010416
+    second: Charlie_54
+  - first:
+      213: 6880414554174321486
+    second: Charlie_55
+  - first:
+      213: 3262955268050161719
+    second: Charlie_56
+  - first:
+      213: -6367274198501709965
+    second: Charlie_57
+  - first:
+      213: -7794148168437954951
+    second: Charlie_58
+  - first:
+      213: 7788793443268063923
+    second: Charlie_59
+  - first:
+      213: 3337542837372143590
+    second: Charlie_60
+  - first:
+      213: -4025599881377434361
+    second: Charlie_61
+  - first:
+      213: 7377343508930112763
+    second: Charlie_62
+  - first:
+      213: 1492311643740461169
+    second: Charlie_63
+  - first:
+      213: -6771059730609435068
+    second: Charlie_64
+  - first:
+      213: 2078179608578580764
+    second: Charlie_65
+  - first:
+      213: 1675342050097922082
+    second: Charlie_66
+  - first:
+      213: -4975339929664957289
+    second: Charlie_67
+  - first:
+      213: -1979018516474299891
+    second: Charlie_68
+  - first:
+      213: -1379281545777519583
+    second: Charlie_69
+  - first:
+      213: -1902661246467686765
+    second: Charlie_70
+  - first:
+      213: -7049773804824764817
+    second: Charlie_71
+  - first:
+      213: -3014419920645025147
+    second: Charlie_72
+  - first:
+      213: 8185532841517897408
+    second: Charlie_73
+  - first:
+      213: 2044267172589548371
+    second: Charlie_74
+  - first:
+      213: 7075718676838461468
+    second: Charlie_75
+  - first:
+      213: -3144446060530426592
+    second: Charlie_76
+  - first:
+      213: 5335055010590756304
+    second: Charlie_77
+  - first:
+      213: 417178141372386227
+    second: Charlie_78
+  - first:
+      213: 574039034203437033
+    second: Charlie_79
+  - first:
+      213: -3960196566137384807
+    second: Charlie_80
+  - first:
+      213: 5007259952975708506
+    second: Charlie_81
+  - first:
+      213: 1619139002848243099
+    second: Charlie_82
+  - first:
+      213: 4056263843776084024
+    second: Charlie_83
+  - first:
+      213: 2469419695752543541
+    second: Charlie_84
+  - first:
+      213: 3580606233152936563
+    second: Charlie_85
+  - first:
+      213: 1561239952908745013
+    second: Charlie_86
+  - first:
+      213: -7500998755549082333
+    second: Charlie_87
+  - first:
+      213: -6640526111193216418
+    second: Charlie_88
+  - first:
+      213: 5699172670277820772
+    second: Charlie_89
+  - first:
+      213: -5971835951612873289
+    second: Charlie_90
+  - first:
+      213: 381523352326180600
+    second: Charlie_91
+  - first:
+      213: 533345656069712933
+    second: Charlie_92
+  - first:
+      213: 5605753575093781635
+    second: Charlie_93
+  - first:
+      213: -4457295612310239809
+    second: Charlie_94
+  - first:
+      213: 8434119429619605565
+    second: Charlie_95
+  - first:
+      213: 1340374482528145654
+    second: Charlie_96
+  - first:
+      213: 4347060016942410669
+    second: Charlie_97
+  - first:
+      213: -181772172492005238
+    second: Charlie_98
+  - first:
+      213: 6325526185146625286
+    second: Charlie_99
+  - first:
+      213: 1188145230060992852
+    second: Charlie_100
+  - first:
+      213: 8199720513567861969
+    second: Charlie_101
+  - first:
+      213: 1841070081374460152
+    second: Charlie_102
+  - first:
+      213: 4489434217089912703
+    second: Charlie_103
+  - first:
+      213: 2467764548256980778
+    second: Charlie_104
+  - first:
+      213: -9119032990445917942
+    second: Charlie_105
+  - first:
+      213: 5502768945903410157
+    second: Charlie_106
+  - first:
+      213: -1376687600125484379
+    second: Charlie_107
+  - first:
+      213: -1171608868944002620
+    second: Charlie_108
+  - first:
+      213: 4587553362841545294
+    second: Charlie_109
+  - first:
+      213: -496961353182272681
+    second: Charlie_110
+  - first:
+      213: 8092925866545399269
+    second: Charlie_111
+  - first:
+      213: -4650633294803082541
+    second: Charlie_112
+  - first:
+      213: 4616013967989689836
+    second: Charlie_113
+  - first:
+      213: 5130053807232518820
+    second: Charlie_114
+  - first:
+      213: 6790819928915650872
+    second: Charlie_115
+  - first:
+      213: 2361662365520982822
+    second: Charlie_116
+  - first:
+      213: 5357853122260997737
+    second: Charlie_117
+  - first:
+      213: 5246833707589567692
+    second: Charlie_118
+  - first:
+      213: 6022125841956247775
+    second: Charlie_119
+  - first:
+      213: -6518844383727086193
+    second: Charlie_120
+  - first:
+      213: -7466558491776323487
+    second: Charlie_121
+  - first:
+      213: 7451422833175601962
+    second: Charlie_122
+  - first:
+      213: 4335785661898903479
+    second: Charlie_123
+  - first:
+      213: -8463880475361897112
+    second: Charlie_124
+  - first:
+      213: 8569911362959446851
+    second: Charlie_125
+  - first:
+      213: -7996439204734015092
+    second: Charlie_126
+  - first:
+      213: 3617388244861498949
+    second: Charlie_127
+  - first:
+      213: 1220484699362936879
+    second: Charlie_128
+  - first:
+      213: -651133513053594603
+    second: Charlie_129
+  - first:
+      213: 4895269375707915996
+    second: Charlie_130
+  - first:
+      213: -6480118046933569909
+    second: Charlie_131
+  - first:
+      213: 450196484666062735
+    second: Charlie_132
+  - first:
+      213: -3768428894404309804
+    second: Charlie_133
+  - first:
+      213: -4803752244597400264
+    second: Charlie_134
+  - first:
+      213: -4648400287757758342
+    second: Charlie_135
+  - first:
+      213: -3194497898846988507
+    second: Charlie_136
+  - first:
+      213: 4371429659474960755
+    second: Charlie_137
+  - first:
+      213: -4787965981629243487
+    second: Charlie_138
+  - first:
+      213: -8096068933861260412
+    second: Charlie_139
+  - first:
+      213: -3620419567059526722
+    second: Charlie_140
+  - first:
+      213: -8104432747351106891
+    second: Charlie_141
+  - first:
+      213: -7075403177210424384
+    second: Charlie_142
+  - first:
+      213: -3668130742233759894
+    second: Charlie_143
+  - first:
+      213: -4073996614206341561
+    second: Charlie_144
+  - first:
+      213: 6184624165169742446
+    second: Charlie_145
+  - first:
+      213: -3756287182366951851
+    second: Charlie_146
+  - first:
+      213: 1795837238689651670
+    second: Charlie_147
+  - first:
+      213: 8034938553471881435
+    second: Charlie_148
+  - first:
+      213: -6081180726065065348
+    second: Charlie_149
+  - first:
+      213: -3162506846284469518
+    second: Charlie_150
+  - first:
+      213: -604554578791951822
+    second: Charlie_151
+  - first:
+      213: -6722543568983691654
+    second: Charlie_152
+  - first:
+      213: 3707291632410795019
+    second: Charlie_153
+  - first:
+      213: -8374416542494503120
+    second: Charlie_154
+  - first:
+      213: 2171885962705800205
+    second: Charlie_155
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Charlie_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff35660d0749d4b10800000000000000
+      internalID: 1967391824484389887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1728
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd060595eabc1aa0800000000000000
+      internalID: -6188866292703425093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1728
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb212575e4e621ba0800000000000000
+      internalID: -6119707660891581761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1728
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfa8a557fc1d59b0800000000000000
+      internalID: -5089880155239174219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_4
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1728
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50678f71105730140800000000000000
+      internalID: 4684716684953024005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_5
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1728
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f35ba4055b4b760800000000000000
+      internalID: 7472797038169898825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1632
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c911d29dd7ad547f0800000000000000
+      internalID: -628856338898939492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1632
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cea9c0cddead3b0800000000000000
+      internalID: -5486811666637460440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1632
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca412aeced634c570800000000000000
+      internalID: 8485967928450225324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_9
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1632
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e29a9dff319eb870800000000000000
+      internalID: 8700551234150109923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_10
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1632
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aff1daf47d6a4630800000000000000
+      internalID: 3912059575516397475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_11
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1632
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f7200e082e50b20800000000000000
+      internalID: 3100132961656405839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_12
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1632
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05093708137fca390800000000000000
+      internalID: -7805592262159396784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_13
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1632
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f5515bb3f8c8640800000000000000
+      internalID: 5083595565998366594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1632
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa2afb0f2afd8270800000000000000
+      internalID: 8254528772011338480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df87737206c77700800000000000000
+      internalID: 538116394323513296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1536
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b520a3a8d896e40800000000000000
+      internalID: 5650202832331234188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1536
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75bcfad061bf4140800000000000000
+      internalID: 4706175165174429050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_18
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1536
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7434e5c5c4410ddb0800000000000000
+      internalID: -4769289687185603769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1536
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680269fcc165edb70800000000000000
+      internalID: 8925666193236697222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_20
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1536
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2c259f6371f6fe0800000000000000
+      internalID: -1193709851351268636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96eb642cde3be4ba0800000000000000
+      internalID: -6102742611292406167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1440
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca41830de00467760800000000000000
+      internalID: 7455216665525490860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1440
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89355170fcf7d9480800000000000000
+      internalID: -8890809562205695080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_24
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1440
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6845c8dc5fcba0cf0800000000000000
+      internalID: -285207862483069818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1440
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0053fb75a0f974e0800000000000000
+      internalID: -1983289567340179443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7e9d90f21a6cf40800000000000000
+      internalID: 5748459197785827325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1344
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a52ac41b0b973f30800000000000000
+      internalID: 4555280020004283811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1344
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e48ed93a7d80f1e0800000000000000
+      internalID: -2166075864668797723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_29
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1344
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d663d8d6b8fa5a0800000000000000
+      internalID: -6507829633890226842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1344
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bda4a49166233890800000000000000
+      internalID: -7479592355584758352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_31
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1344
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41067d28db22d8160800000000000000
+      internalID: 7029312790734528532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_32
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1344
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3e42e03bf132d50800000000000000
+      internalID: 6711242723609076680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6773515eaf7c42280800000000000000
+      internalID: -9068903869218211978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_34
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1248
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b992cdeb2e368f0800000000000000
+      internalID: -548345420243690680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1248
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fbefa479d4bab40800000000000000
+      internalID: 5452537086055726941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_36
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1248
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1401531c0786460800000000000000
+      internalID: 7235156776491958769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_37
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1248
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d8f4a9dc4f9c040800000000000000
+      internalID: 4668531652640607612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_38
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1248
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277671132f0e80d20800000000000000
+      internalID: 3245090862330767218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ae24734a9f39460800000000000000
+      internalID: 7247410709066345111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_40
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1152
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b02864894797cd40800000000000000
+      internalID: 5604614603295695033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_41
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1152
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c69fa7f160fc1e10800000000000000
+      internalID: 2169873424043710150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_42
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1152
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ced36f586bc50ea0800000000000000
+      internalID: -5907091687089119550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1152
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffb50ceb6dda9c50800000000000000
+      internalID: 6672889253493850096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_44
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1152
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b37643c95121a10800000000000000
+      internalID: 1878587755205180269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee9bc2bad683ac90800000000000000
+      internalID: -7159730708728275222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1056
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ff1660daeb40f50800000000000000
+      internalID: 6846806983855701873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1056
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a167a927883cbbc80800000000000000
+      internalID: -8305830096949053926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_48
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1056
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20729da82901d71e0800000000000000
+      internalID: -2198582821506177278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_49
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1056
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8999181270023e0800000000000000
+      internalID: -2080655187355526998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_50
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1056
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667471efd1e3fabd0800000000000000
+      internalID: -2616804559941056666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_51
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1056
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da061fa07c662b40800000000000000
+      internalID: 5415134833189194454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_52
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1056
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02957efac3253e050800000000000000
+      internalID: 5828592763350243616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8648c37d4a99774a0800000000000000
+      internalID: -6595634195996048280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_54
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 960
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e488b0f433a5b70800000000000000
+      internalID: 8888473229158010416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 960
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43fcf045942c7f50800000000000000
+      internalID: 6880414554174321486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_56
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 960
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7309e164788584d20800000000000000
+      internalID: 3262955268050161719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_57
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377abca0ad5e2a7a0800000000000000
+      internalID: -6367274198501709965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_58
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 960
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9768e75398f95d390800000000000000
+      internalID: -7794148168437954951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b272eeae5a571c60800000000000000
+      internalID: 7788793443268063923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_60
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 864
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7473c0785515e20800000000000000
+      internalID: 3337542837372143590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_61
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 864
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705b4a68c323228c0800000000000000
+      internalID: -4025599881377434361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_62
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 864
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc20d3a5d6916660800000000000000
+      internalID: 7377343508930112763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_63
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 864
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178545b8881c5b410800000000000000
+      internalID: 1492311643740461169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_64
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 864
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e8214bc0d5802a0800000000000000
+      internalID: -6771059730609435068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_65
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 864
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1169c4e75d27dc10800000000000000
+      internalID: 2078179608578580764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_66
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 864
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2208c5dd7b2004710800000000000000
+      internalID: 1675342050097922082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_67
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 864
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794d087c1ba04fab0800000000000000
+      internalID: -4975339929664957289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_68
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 864
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0af0a1052d1984e0800000000000000
+      internalID: -1979018516474299891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124edaaedbecbdce0800000000000000
+      internalID: -1379281545777519583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_70
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 768
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e34645da36895e0800000000000000
+      internalID: -1902661246467686765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 768
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ed098631c2a2e90800000000000000
+      internalID: -7049773804824764817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_72
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 768
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5829712ad01aa26d0800000000000000
+      internalID: -3014419920645025147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_73
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6d7f320cad89170800000000000000
+      internalID: 8185532841517897408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35331389922be5c10800000000000000
+      internalID: 2044267172589548371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_75
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 672
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10bd87d5a0023260800000000000000
+      internalID: 7075718676838461468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_76
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 672
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d15bac7feac54d0800000000000000
+      internalID: -3144446060530426592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_77
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 672
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd0e6b044ce90a40800000000000000
+      internalID: 5335055010590756304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 672
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb0f8c2f4d1ac500800000000000000
+      internalID: 417178141372386227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e777e0d57567f700800000000000000
+      internalID: 574039034203437033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_80
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 576
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990d8a2843e8a09c0800000000000000
+      internalID: -3960196566137384807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_81
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 576
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51082bc56c5d7540800000000000000
+      internalID: 5007259952975708506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_82
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 576
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9defb23856587610800000000000000
+      internalID: 1619139002848243099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_83
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838b883997eba4830800000000000000
+      internalID: 4056263843776084024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_84
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 576
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dfea63124254220800000000000000
+      internalID: 2469419695752543541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_85
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 576
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a51afe56ed0b130800000000000000
+      internalID: 3580606233152936563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539f5422773aaa510800000000000000
+      internalID: 1561239952908745013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 480
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d89d2bf5917e790800000000000000
+      internalID: -7500998755549082333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_88
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a4f945fac18d3a0800000000000000
+      internalID: -6640526111193216418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_89
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 480
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461268d1957871f40800000000000000
+      internalID: 5699172670277820772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_90
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5353797d6cf1da0800000000000000
+      internalID: -5971835951612873289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_91
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 480
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe0be0b7717b4500800000000000000
+      internalID: 381523352326180600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_92
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 480
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c68846c03d66700800000000000000
+      internalID: 533345656069712933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_93
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 480
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38447dd0d23abcd40800000000000000
+      internalID: 5605753575093781635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_94
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 480
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb54751a1418422c0800000000000000
+      internalID: -4457295612310239809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_95
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 480
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3062b37fe20c0570800000000000000
+      internalID: 8434119429619605565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_96
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 480
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f096118d77f99210800000000000000
+      internalID: 1340374482528145654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_97
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 480
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabe72fbd0cd35c30800000000000000
+      internalID: 4347060016942410669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8020941c273a7df0800000000000000
+      internalID: -181772172492005238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_99
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60da8132d88c8c750800000000000000
+      internalID: 6325526185146625286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_100
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4593c5baac32d7010800000000000000
+      internalID: 1188145230060992852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_101
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc22b4fc524bc170800000000000000
+      internalID: 8199720513567861969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_102
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f89cee0c7bcc8910800000000000000
+      internalID: 1841070081374460152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_103
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fc02862acad4e30800000000000000
+      internalID: 4489434217089912703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_104
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fd82828c24f3220800000000000000
+      internalID: 2467764548256980778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_105
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0927655fcfa27180800000000000000
+      internalID: -9119032990445917942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_106
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb9f9d8333cd5c40800000000000000
+      internalID: 5502768945903410157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_107
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2e5d3fbe505ece0800000000000000
+      internalID: -1376687600125484379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_108
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c145eee0fb9dbfe0800000000000000
+      internalID: -1171608868944002620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_109
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4aa1544a734aaf30800000000000000
+      internalID: 4587553362841545294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_110
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753297448407a19f0800000000000000
+      internalID: -496961353182272681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_111
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5420d8239df4070800000000000000
+      internalID: 8092925866545399269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_112
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d268a298a1a57fb0800000000000000
+      internalID: -4650633294803082541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_113
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced44484f306f0040800000000000000
+      internalID: 4616013967989689836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_114
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa0cbae1cc913740800000000000000
+      internalID: 5130053807232518820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_115
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83929acfeb6dd3e50800000000000000
+      internalID: 6790819928915650872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_116
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6237948a86f46c020800000000000000
+      internalID: 2361662365520982822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_117
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966951f070bea5a40800000000000000
+      internalID: 5357853122260997737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_118
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc40c68457f70d840800000000000000
+      internalID: 5246833707589567692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_119
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 384
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd89082fb83e29350800000000000000
+      internalID: 6022125841956247775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8595e142996885a0800000000000000
+      internalID: -6518844383727086193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_121
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160fefa7c94716890800000000000000
+      internalID: -7466558491776323487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_122
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23aaa26695c86760800000000000000
+      internalID: 7451422833175601962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_123
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf47b7661ecb2c30800000000000000
+      internalID: 4335785661898903479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_124
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86590bc1d814a8a80800000000000000
+      internalID: -8463880475361897112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_125
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34318c1baf07ee670800000000000000
+      internalID: 8569911362959446851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_126
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8962d509e0f60190800000000000000
+      internalID: -7996439204734015092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_127
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546b4a5617b833230800000000000000
+      internalID: 3617388244861498949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_128
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28c35f1e5800f010800000000000000
+      internalID: 1220484699362936879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_129
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c961d0585b6f6f0800000000000000
+      internalID: -651133513053594603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_130
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd62bea9f8d7fe340800000000000000
+      internalID: 4895269375707915996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_131
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e2ded28fef116a0800000000000000
+      internalID: -6480118046933569909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_132
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8776ab415b6f3600800000000000000
+      internalID: 450196484666062735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_133
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc86b3f2e9d3bbc0800000000000000
+      internalID: -3768428894404309804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_134
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d59cfe8c4a55db0800000000000000
+      internalID: -4803752244597400264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_135
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70106a01909d7fb0800000000000000
+      internalID: -4648400287757758342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_136
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5275e7f061ddaa3d0800000000000000
+      internalID: -3194497898846988507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_137
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371ac9d4d107aac30800000000000000
+      internalID: 4371429659474960755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_138
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af9554be4abd8db0800000000000000
+      internalID: -4787965981629243487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_139
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483cf10133cf4af80800000000000000
+      internalID: -8096068933861260412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_140
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb1b87e59fa1cdc0800000000000000
+      internalID: -3620419567059526722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_141
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba181cfa55478f80800000000000000
+      internalID: -8104432747351106891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_142
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3d3b32c4e1fcd90800000000000000
+      internalID: -7075403177210424384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_143
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 288
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f7777468e281dc0800000000000000
+      internalID: -3668130742233759894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e36121aa14677c0800000000000000
+      internalID: -4073996614206341561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_145
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e624d3229e234d550800000000000000
+      internalID: 6184624165169742446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5563aa495bcfedbc0800000000000000
+      internalID: -3756287182366951851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_147
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbd38e24781ce810800000000000000
+      internalID: 1795837238689651670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd058cf1b06d18f60800000000000000
+      internalID: 8034938553471881435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_149
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7290ff595e4b9ba0800000000000000
+      internalID: -6081180726065065348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_150
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa297b67c48c14d0800000000000000
+      internalID: -3162506846284469518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_151
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23215cb40d03c97f0800000000000000
+      internalID: -604554578791951822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_152
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ee3a7dd3ab4b2a0800000000000000
+      internalID: -6722543568983691654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_153
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c9f9cf812f27330800000000000000
+      internalID: 3707291632410795019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_154
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fc57f268818cb80800000000000000
+      internalID: -8374416542494503120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlie_155
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c8cb3a6c6142e10800000000000000
+      internalID: 2171885962705800205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0271f0d72afc2f0459bf15c272290b06
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

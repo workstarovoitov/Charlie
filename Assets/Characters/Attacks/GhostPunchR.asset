@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 196c71cf711442246b6964f271256506, type: 3}
+  m_Name: GhostPunchR
+  m_EditorClassIdentifier: 
+  attackName: PunchR
+  actionType: 0
+  animationTrigger: Attack2
+  staminaCost: 0
+  cooldownTime: 1
+  comboResetTimeMin: 0.1
+  comboResetTimeMax: 0.2
+  forwardForce: {x: 1, y: 0}
+  attackSFX: event:/combat/sword_0
+  damage: 15
+  hitWeight: 2
+  knockBackForce: {x: 2, y: 0}
+  knockDownTime: 0
+  defenceOverride: 0
+  parryCooldown: 0.75
+  cameraShakeAmplitude: 4
+  cameraShakeFrequency: 1
+  cameraShakeDuration: 1
+  slowMotionDuration: 0
+  slowMotionScale: 1
+  colRange: {x: 1.4, y: 1.15}
+  colOffset: {x: 0.5, y: 0.05}
+  hitLayerMask:
+    serializedVersion: 2
+    m_Bits: 32832
+  hitSFX: event:/combat/sword_hit
+  hitBlockSFX: event:/combat/sword_def
+  inflictor: {fileID: 0}

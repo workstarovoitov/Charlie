@@ -16411,6 +16411,14 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: 9db3fb68f4ef9b442832cb18405aa2fd, type: 2}
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: eb6177f2f05c78a499fcafcf7d86ceed, type: 2}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   m_TileSpriteArray:
   - m_RefCount: 1
     m_Data: {fileID: -1818167524806175215, guid: dbbd3e91d342c2542a2b0e1332d5b93b, type: 3}
@@ -19140,6 +19148,14 @@ Tilemap:
     m_Data: {fileID: 1990658359378688727, guid: f51cdc6e6d775234db1f46e21978b613, type: 3}
   - m_RefCount: 1
     m_Data: {fileID: 177490741300016897, guid: f51cdc6e6d775234db1f46e21978b613, type: 3}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   m_TileMatrixArray:
   - m_RefCount: 1364
     m_Data:
@@ -19197,7 +19213,6 @@ TilemapRenderer:
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 0
-  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -19245,7 +19260,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6812475290451797205}
   - component: {fileID: 1695060367279304222}
-  m_Layer: 0
+  m_Layer: 31
   m_Name: Back
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19279,7 +19294,7 @@ Grid:
   m_CellGap: {x: 0, y: 0, z: 0}
   m_CellLayout: 0
   m_CellSwizzle: 0
---- !u!114 &3776506853898010693
+--- !u!114 &1786193016102816360
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
